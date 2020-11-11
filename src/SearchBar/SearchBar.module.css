@@ -1,3 +1,24 @@
 .input-control {
-    min-width: 320px;
+  min-width: 30%;
 }
+
+:global(.button).search-button {
+  background-color: white;
+  border: 1px solid #064d85;
+}
+
+:global(.icon).search-icon {
+  color: #064d85;
+}
+
+:global(.button).search-button:hover {
+  background-color: #2e75aa;
+  border: none;
+  transition: all 0.3s ease-in;
+}
+
+:global(.icon).search-icon:hover {
+  color: white;
+  transition: all 0.3s ease-in;
+}
+

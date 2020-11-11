@@ -6,7 +6,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 1.5rem;
+    margin: var(--element-spacing);
+    width: 100%;
 }
 
 .left > *{
