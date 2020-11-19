@@ -1,0 +1,21 @@
+.card-item {
+    display: flex;
+    width: 20%;
+}
+
+.more-button {
+    width: 100%;
+    background-color: #064d85;
+    color: rgb(245, 245, 245);
+}
+
+.more-button:hover {
+    background-color:#0e72be;
+    color: rgb(245, 245, 245);
+    transition: all 0.3s ease-in-out;
+}
+
+.card-img {
+    width: 210px;
+    height: 210px;
+}

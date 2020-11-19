@@ -1,0 +1,11 @@
+.search-results {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.search-results > * {
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
