@@ -1,3 +1,3 @@
-export const API_BASE_URL = 'https://api.yelp.com/v3';
+export const API_BASE_URL = 'https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3';
 
-export const BEARER_TOKEN = 'Gwg0I_SH7cJocJo1rAaxPy-8K_ZYjUlhkyXbhcJLDPtnSG0aKdd9k7sphULFR83uZeN44C-h2vLEVnYPviBvDvqkaxwrHr2RVXGbPt5_TS7IVH1tATPH7XoZHMa2X3Yx';
+export const BEARER_TOKEN = 'lK2Do3V85_ONQhpLip8S7ZYhz9RW0ies_mVtjTWJPeKnZ1_wznaRVCwFw4zluAZ0wC01hsGMpj77ZDFDW9JS3sVEu1eYfcHGWZ8wyrzjfjnRpq2L22lU4FTTmFy6X3Yx';

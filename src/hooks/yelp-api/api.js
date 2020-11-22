@@ -6,7 +6,7 @@ export const get = (path, queryParams) => {
   return fetch(`${API_BASE_URL}${path}?${query}`, {
     headers: {
       Authorization: `Bearer ${BEARER_TOKEN}`,
-      Origin: "localhost",
+      Origin: 'localhost',
       withCredentials: true,
     },
   });
